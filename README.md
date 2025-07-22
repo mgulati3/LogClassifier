@@ -47,7 +47,7 @@ In a typical company, software systems generate extensive log files. Traditional
 
 ---
 
-## 📁 Folder Structure
+## 📁 Folder Structure of the project
 
 ```
 .
